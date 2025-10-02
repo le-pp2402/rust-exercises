@@ -4,7 +4,7 @@ fn picky_eater(food: &str) -> &str {
         return "Yummy!";
     } else if food == "potato" {
         return "I guess I can eat that.";
-    } 
+    }
     "No thanks!"
 }
 

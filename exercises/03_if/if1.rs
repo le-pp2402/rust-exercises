@@ -14,7 +14,7 @@ fn bigger(a: i32, b: i32) -> i32 {
 
 fn main() {
     // You can optionally experiment here.
-    println!("bigger ({}, {}) is {}", 3, 5, bigger(3, 5)); 
+    println!("bigger ({}, {}) is {}", 3, 5, bigger(3, 5));
 }
 
 // Don't mind this for now :)
